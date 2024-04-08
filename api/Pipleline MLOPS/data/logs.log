@@ -1,0 +1,130 @@
+2024-04-06 20:18:46.068 | INFO     | main:predict:50 - Prédictions demandées pour les dates 2024-04-07 00:00:00 à 2024-04-08 00:00:00
+2024-04-06 20:18:46.068 | INFO     | main:predict:50 - Prédictions demandées pour les dates 2024-04-07 00:00:00 à 2024-04-08 00:00:00
+2024-04-06 20:18:46.597 | INFO     | main:predict:71 - Prédictions effectuées avec succès
+2024-04-06 20:18:46.597 | INFO     | main:predict:71 - Prédictions effectuées avec succès
+2024-04-06 20:45:50.823 | INFO     | main:predict:50 - Prédictions demandées pour les dates 2024-04-08 06:00:00 à 2024-04-09 06:00:00
+2024-04-06 20:45:50.823 | INFO     | main:predict:50 - Prédictions demandées pour les dates 2024-04-08 06:00:00 à 2024-04-09 06:00:00
+2024-04-06 20:45:51.493 | INFO     | main:predict:71 - Prédictions effectuées avec succès
+2024-04-06 20:45:51.493 | INFO     | main:predict:71 - Prédictions effectuées avec succès
+2024-04-07 01:51:29.367 | INFO     | main:predict:50 - Prédictions demandées pour les dates 2024-04-08 06:00:00 à 2024-04-09 06:00:00
+2024-04-07 01:51:29.367 | INFO     | main:predict:50 - Prédictions demandées pour les dates 2024-04-08 06:00:00 à 2024-04-09 06:00:00
+2024-04-07 01:51:29.987 | INFO     | main:predict:71 - Prédictions effectuées avec succès
+2024-04-07 01:51:29.987 | INFO     | main:predict:71 - Prédictions effectuées avec succès
+2024-04-07 01:52:28.632 | INFO     | main:get_predictions:86 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 01:52:28.632 | INFO     | main:get_predictions:86 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 01:52:28.635 | INFO     | main:get_predictions:93 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 01:52:28.635 | INFO     | main:get_predictions:93 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 02:00:08.838 | INFO     | main:get_predictions:89 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 02:00:08.838 | INFO     | main:get_predictions:89 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 02:00:08.854 | INFO     | main:get_predictions:107 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 02:00:08.854 | INFO     | main:get_predictions:107 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 04:13:10.106 | INFO     | main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 04:13:10.106 | INFO     | main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 04:13:10.119 | INFO     | main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 04:13:10.119 | INFO     | main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 04:15:32.791 | INFO     | main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 04:15:32.791 | INFO     | main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 04:15:32.796 | INFO     | main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 04:15:32.796 | INFO     | main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 04:17:54.198 | INFO     | main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 04:17:54.198 | INFO     | main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 04:17:54.209 | INFO     | main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 04:17:54.209 | INFO     | main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 04:25:56.149 | INFO     | main:get_predictionsFabio:137 - Début de la récupération des prédictions
+2024-04-07 04:25:56.149 | INFO     | main:get_predictionsFabio:137 - Début de la récupération des prédictions
+2024-04-07 04:25:56.156 | ERROR    | main:get_data_from_csv:129 - Erreur lors de la récupération des données depuis le fichier CSV : 'date'
+2024-04-07 04:25:56.156 | ERROR    | main:get_data_from_csv:129 - Erreur lors de la récupération des données depuis le fichier CSV : 'date'
+2024-04-07 04:25:56.156 | INFO     | main:get_predictionsFabio:145 - Prédictions récupérées avec succès
+2024-04-07 04:25:56.156 | INFO     | main:get_predictionsFabio:145 - Prédictions récupérées avec succès
+2024-04-07 04:36:55.712 | INFO     | main:get_predictionsFabio:151 - Début de la récupération des données depuis le fichier CSV
+2024-04-07 04:36:55.712 | INFO     | main:get_predictionsFabio:151 - Début de la récupération des données depuis le fichier CSV
+2024-04-07 04:36:55.747 | INFO     | main:get_predictionsFabio:161 - Données récupérées avec succès depuis le fichier CSV
+2024-04-07 04:36:55.747 | INFO     | main:get_predictionsFabio:161 - Données récupérées avec succès depuis le fichier CSV
+2024-04-07 04:51:59.020 | INFO     | main:get_predictionsFabio:151 - Début de la récupération des données depuis le fichier CSV
+2024-04-07 04:51:59.020 | INFO     | main:get_predictionsFabio:151 - Début de la récupération des données depuis le fichier CSV
+2024-04-07 04:51:59.043 | INFO     | main:get_predictionsFabio:181 - Données récupérées avec succès depuis le fichier CSV
+2024-04-07 04:51:59.043 | INFO     | main:get_predictionsFabio:181 - Données récupérées avec succès depuis le fichier CSV
+2024-04-07 04:52:50.669 | INFO     | main:get_predictionsFabio:151 - Début de la récupération des données depuis le fichier CSV
+2024-04-07 04:52:50.669 | INFO     | main:get_predictionsFabio:151 - Début de la récupération des données depuis le fichier CSV
+2024-04-07 04:52:50.679 | INFO     | main:get_predictionsFabio:181 - Données récupérées avec succès depuis le fichier CSV
+2024-04-07 04:52:50.679 | INFO     | main:get_predictionsFabio:181 - Données récupérées avec succès depuis le fichier CSV
+2024-04-07 05:09:23.430 | INFO     | main:get_predictionsFabio:151 - Début de la récupération des données depuis le fichier CSV
+2024-04-07 05:09:23.430 | INFO     | main:get_predictionsFabio:151 - Début de la récupération des données depuis le fichier CSV
+2024-04-07 05:09:23.492 | ERROR    | main:get_predictionsFabio:178 - Erreur lors de la récupération des données : 'time'
+2024-04-07 05:09:23.492 | ERROR    | main:get_predictionsFabio:178 - Erreur lors de la récupération des données : 'time'
+2024-04-07 05:11:51.810 | INFO     | main:get_predictionsFabio:151 - Début de la récupération des données depuis le fichier CSV
+2024-04-07 05:11:51.810 | INFO     | main:get_predictionsFabio:151 - Début de la récupération des données depuis le fichier CSV
+2024-04-07 05:11:51.852 | INFO     | main:get_predictionsFabio:181 - Données récupérées avec succès depuis le fichier CSV
+2024-04-07 05:11:51.852 | INFO     | main:get_predictionsFabio:181 - Données récupérées avec succès depuis le fichier CSV
+2024-04-07 05:24:52.927 | INFO     | main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:24:52.927 | INFO     | main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:24:52.936 | ERROR    | main:get_predictionsFabio:155 - Erreur lors de la récupération des données CSV : 'time'
+2024-04-07 05:24:52.936 | ERROR    | main:get_predictionsFabio:155 - Erreur lors de la récupération des données CSV : 'time'
+2024-04-07 05:25:43.253 | INFO     | main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:25:43.253 | INFO     | main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:25:43.280 | INFO     | main:get_predictionsFabio:178 - Données récupérées avec succès
+2024-04-07 05:25:43.280 | INFO     | main:get_predictionsFabio:178 - Données récupérées avec succès
+2024-04-07 05:26:56.402 | INFO     | main:predict:53 - Prédictions demandées pour les dates 2024-01-03 00:00:00 à 2024-01-04 00:00:00
+2024-04-07 05:26:56.402 | INFO     | main:predict:53 - Prédictions demandées pour les dates 2024-01-03 00:00:00 à 2024-01-04 00:00:00
+2024-04-07 05:26:57.828 | INFO     | main:predict:74 - Prédictions effectuées avec succès
+2024-04-07 05:26:57.828 | INFO     | main:predict:74 - Prédictions effectuées avec succès
+2024-04-07 05:27:16.484 | INFO     | main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 05:27:16.484 | INFO     | main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 05:27:16.503 | INFO     | main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 05:27:16.503 | INFO     | main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 05:27:28.236 | INFO     | main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:27:28.236 | INFO     | main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:27:28.272 | INFO     | main:get_predictionsFabio:178 - Données récupérées avec succès
+2024-04-07 05:27:28.272 | INFO     | main:get_predictionsFabio:178 - Données récupérées avec succès
+2024-04-07 05:38:12.156 | INFO     | Serie_temporelle.main:root:46 - Endpoint racine appelé
+2024-04-07 05:38:12.177 | INFO     | Serie_temporelle.main:predict:53 - Prédictions demandées pour les dates 2022-01-01 00:00:00 à 2022-01-02 00:00:00
+2024-04-07 05:38:12.224 | INFO     | Serie_temporelle.main:predict:74 - Prédictions effectuées avec succès
+2024-04-07 05:43:18.883 | INFO     | Serie_temporelle.main:root:46 - Endpoint racine appelé
+2024-04-07 05:43:18.888 | INFO     | Serie_temporelle.main:predict:53 - Prédictions demandées pour les dates 2022-01-01 00:00:00 à 2022-01-02 00:00:00
+2024-04-07 05:43:18.899 | INFO     | Serie_temporelle.main:predict:74 - Prédictions effectuées avec succès
+2024-04-07 05:43:18.925 | INFO     | Serie_temporelle.main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 05:43:18.927 | INFO     | Serie_temporelle.main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 05:43:18.932 | INFO     | Serie_temporelle.main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:43:18.946 | INFO     | Serie_temporelle.main:get_predictionsFabio:178 - Données récupérées avec succès
+2024-04-07 05:47:25.806 | INFO     | main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 05:47:25.806 | INFO     | main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 05:47:25.823 | INFO     | main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 05:47:25.823 | INFO     | main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 05:47:40.801 | INFO     | main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 05:47:40.801 | INFO     | main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 05:47:40.804 | INFO     | main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 05:47:40.804 | INFO     | main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 05:48:02.060 | INFO     | main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 05:48:02.060 | INFO     | main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 05:48:02.062 | INFO     | main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 05:48:02.062 | INFO     | main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 05:48:23.011 | INFO     | main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:48:23.011 | INFO     | main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:48:23.045 | INFO     | main:get_predictionsFabio:182 - Données récupérées avec succès
+2024-04-07 05:48:23.045 | INFO     | main:get_predictionsFabio:182 - Données récupérées avec succès
+2024-04-07 05:49:22.183 | INFO     | main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:49:22.183 | INFO     | main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:49:22.194 | INFO     | main:get_predictionsFabio:182 - Données récupérées avec succès
+2024-04-07 05:49:22.194 | INFO     | main:get_predictionsFabio:182 - Données récupérées avec succès
+2024-04-07 05:49:36.368 | INFO     | main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:49:36.368 | INFO     | main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:49:36.376 | INFO     | main:get_predictionsFabio:182 - Données récupérées avec succès
+2024-04-07 05:49:36.376 | INFO     | main:get_predictionsFabio:182 - Données récupérées avec succès
+2024-04-07 05:50:10.624 | INFO     | main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:50:10.624 | INFO     | main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:50:10.632 | INFO     | main:get_predictionsFabio:182 - Données récupérées avec succès
+2024-04-07 05:50:10.632 | INFO     | main:get_predictionsFabio:182 - Données récupérées avec succès
+2024-04-07 05:50:49.552 | INFO     | Serie_temporelle.main:root:46 - Endpoint racine appelé
+2024-04-07 05:50:49.558 | INFO     | Serie_temporelle.main:predict:53 - Prédictions demandées pour les dates 2022-01-01 00:00:00 à 2022-01-02 00:00:00
+2024-04-07 05:50:49.570 | INFO     | Serie_temporelle.main:predict:74 - Prédictions effectuées avec succès
+2024-04-07 05:50:49.598 | INFO     | Serie_temporelle.main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 05:50:49.601 | INFO     | Serie_temporelle.main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 05:50:49.607 | INFO     | Serie_temporelle.main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 05:50:49.620 | INFO     | Serie_temporelle.main:get_predictionsFabio:182 - Données récupérées avec succès
+2024-04-07 19:31:27.766 | INFO     | Serie_temporelle.main:root:46 - Endpoint racine appelé
+2024-04-07 19:31:27.785 | INFO     | Serie_temporelle.main:predict:53 - Prédictions demandées pour les dates 2022-01-01 00:00:00 à 2022-01-02 00:00:00
+2024-04-07 19:31:27.806 | INFO     | Serie_temporelle.main:predict:74 - Prédictions effectuées avec succès
+2024-04-07 19:31:27.890 | INFO     | Serie_temporelle.main:get_predictions:91 - Début de la récupération des prédictions depuis la base de données
+2024-04-07 19:31:27.894 | INFO     | Serie_temporelle.main:get_predictions:109 - Prédictions récupérées avec succès depuis la base de données
+2024-04-07 19:31:27.905 | INFO     | Serie_temporelle.main:get_predictionsFabio:148 - Début de la récupération des données
+2024-04-07 19:31:27.938 | INFO     | Serie_temporelle.main:get_predictionsFabio:182 - Données récupérées avec succès

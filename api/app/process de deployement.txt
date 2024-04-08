@@ -1,0 +1,69 @@
+D'abord il faut créer un dossier app dans lequel il faudra ajouter le dossier modele avec les modèles déjà entraîner, l'api, le fichier Dokerfile.txt 
+
+Contenu du fichier Dockerfile.txt
+
+
+# Utilisez une image de base avec Python
+FROM python:3.12.0
+
+# Copiez les fichiers nécessaires dans le conteneur
+COPY . /app
+
+# Définir le répertoire de travail
+WORKDIR /app
+
+# Installer les dépendances
+RUN pip3 install fastapi uvicorn joblib statsmodels loguru typing
+
+# Exposer le port 8000 pour accéder à l'API
+EXPOSE 8000
+
+# Lancer l'application FastAPI avec Uvicorn
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+#RUN uvicorn main:app --reload
+
+
+
+docker build -t nom de vote image -f Dockerfile.txt .
+
+
+docker run -d --name nom de votre conteneur -p 8000:8000 nom de vote image
+
+
+
+
+
+
+
+
+docker exec -it projetbihar /bin/bash
+
+ optionnel(
+sqlite3 predictions.db
+
+.tables
+
+
+SELECT * FROM predictions;
+)
+
+
+
+
+Optionel(
+pip install pytest 
+
+
+python -m venv venv 
+
+source venv/bin/activate 
+
+pip freeze > requirements.txt 
+
+pip install -r requirements.txt  
+
+pip install httpx 
+
+pytest tests/  
+)
+
